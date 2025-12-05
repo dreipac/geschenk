@@ -17,6 +17,7 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
+  background-color: radial-gradient(circle at top left, #ff9ad5 0%, #ff5bbd 30%, #ff2f96 60%, #ff0080 100%);
 }
 
 body {
@@ -30,6 +31,7 @@ body {
   justify-content: center;
   color: var(--text-main);
   overflow: hidden;
+  background-color: radial-gradient(circle at top left, #ff9ad5 0%, #ff5bbd 30%, #ff2f96 60%, #ff0080 100%);
 }
 
 /* Herz-Layer */
